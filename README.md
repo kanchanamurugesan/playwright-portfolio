@@ -3,10 +3,10 @@
 Automation framework built with Playwright + Typescript.
 
 ### Stack
--Playwright
--Typescript
--Page Object Model
--Custom Fixtures
+- Playwright
+- Typescript
+- Page Object Model
+- Custom Fixtures
 
 ## Run Tests
 npm install
